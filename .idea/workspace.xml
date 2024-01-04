@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67af4864-f5df-46cf-bac6-1fe36e871bde" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/commands/actions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/actions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/aliasing.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/aliasing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/assertions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/assertions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/connectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/connectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/cookies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/local-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/local-storage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/misc.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/misc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/network-requests.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/network-requests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/querying.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/querying.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/spies-stubs-clocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/spies-stubs-clocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/traversal.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/traversal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/viewport.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/viewport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/waiting.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/waiting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/commands/window.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/window.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/cypress-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/cypress-api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/utilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/utilities.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aUw0FcsNGcfdgpW5z7B9BWT4vt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AlonaD/OneDrive - Revenue Grid/Desktop/G7-Projects/homework2/g2-cypress-sandbox",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67af4864-f5df-46cf-bac6-1fe36e871bde" name="Changes" comment="" />
+      <created>1704386241774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704386241774</updated>
+      <workItem from="1704386243099" duration="1890000" />
+      <workItem from="1704388161207" duration="193000" />
+      <workItem from="1704390759289" duration="18000" />
+      <workItem from="1704390969274" duration="13000" />
+      <workItem from="1704394564419" duration="1738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
